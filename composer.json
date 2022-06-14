@@ -1,5 +1,5 @@
 {
-	"name": "skydreams/sqlite-extended-api",
+	"name": "mateuszjozwik1/sqlite-extended-api",
 	"type": "library",
 	"description": "Exposes SQLite APIs that are otherwise not available in PHP",
 	"license": "MIT",
