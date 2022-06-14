@@ -23,7 +23,7 @@
 	"require": {
 		"php": "^8.0",
 		"ext-FFI": "*",
-		"lisachenko/z-engine": "^0.9.1"
+		"mateuszjozwik1/z-engine": "^0.9.1"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^9.1"
